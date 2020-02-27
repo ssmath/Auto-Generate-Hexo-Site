@@ -1,5 +1,6 @@
 ---
 title: 使用Microsoft Edge Beta将网页变成应用
+date: 2019-10-11 23:50:56
 toc: true
 comments: true
 popular_posts: true

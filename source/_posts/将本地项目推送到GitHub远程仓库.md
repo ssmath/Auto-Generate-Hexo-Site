@@ -35,9 +35,9 @@ git add .
 # 4.告诉git将文件提交到仓库
 git commit -m "first-commit"
 # 5.将当前仓库与远程仓库关联
-git remote add orign 远程仓库的https地址 # eg: git remote add https://github.com/ssmath/Test.git
+git remote add origin 远程仓库的https地址 # eg: git remote add https://github.com/ssmath/Test.git
 # 6.将仓库内master分支的所有内容推送到远程仓库,这里会使用到Github的账号密码
-git push -u orign master
+git push -u origin master
 ```
 <!-- more -->
 

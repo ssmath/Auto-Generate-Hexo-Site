@@ -42,4 +42,6 @@ verilog/systemverilog/e $display("Happy New Year")
 as:trace("Happy New Year！");
 ```
 
-<iframe src="//player.bilibili.com/player.html?aid=42909530&cid=75244190&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
+{% raw %}
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;"><iframe src="//player.bilibili.com/player.html?aid=42909530&cid=75244190&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"></iframe></div>
+{% endraw %}

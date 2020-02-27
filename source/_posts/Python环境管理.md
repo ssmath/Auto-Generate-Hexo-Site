@@ -33,7 +33,7 @@ activate    # 激活，激活后命令提示符会变成当前工程目录Python
 deactivate  # 退出
 # 3、激活虚拟环境后可使用pip为当前项目安装依赖，example：
 pip install numpy
-# 4、使用pip freeze > requirement.txt 可导出项目依赖到requiremen.txt中
+# 4、使用pip freeze > requirements.txt 可导出项目依赖到requirements.txt中
 # 为项目创建一个新的、干净的环境时，可使用 pip install -r requiremen.txt 为项目安装依赖
 ```
 
@@ -85,5 +85,9 @@ poetry build
 ```
 
 ![help](https://img.vim-cn.com/19/0c0b38a2733929e1d9f5e29ed870b5f0ce7ac3.png )
+
+# 拓展
+
+[关于Wheel打包格式《PEP427》](https://www.python.org/dev/peps/pep-0427/)
 
 

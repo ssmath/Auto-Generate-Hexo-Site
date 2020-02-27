@@ -8,11 +8,6 @@ top: false
 abstract: 'Welcome to my blog, enter password to read.'
 message: 'Welcome to my blog, enter password to read.'
 password: false
-music:
-  enable: false
-  server: netease
-  type: song
-  id: 26664345
 date: 2019-06-17 19:51:57
 tags: MATLAB
 categories: math
