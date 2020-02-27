@@ -3,8 +3,8 @@ title: Shan San
 subtitle: 腾出空去生活
 description: 每天都要开开心心
 keywords:
-author: Shan San
-language: 
+author: ShanSan
+language:
   - zh-CN
   - en
   - zh-HK
@@ -82,7 +82,7 @@ deploy:
   repo: git@github.com:ssmath/ssmath.github.io.git
   branch: master
 
-baidu_push: true
+baidu_push: false
 
 # Security
 # 文章锁
